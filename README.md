@@ -6,7 +6,7 @@ High-performance backend BitTorrent tracker compatible with UNIT3D tracker softw
 
 ```sh
 # Clone this repository
-$ git clone https://github.com/HDInnovations/UNIT3D-Announce
+$ git clone https://github.com/wildfirebill/UNIT3D-Announce.git
 
 # Go into the repository
 $ cd UNIT3D-Announce
